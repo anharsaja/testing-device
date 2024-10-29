@@ -1,1 +1,1 @@
-print('gosong')
+print('gosongsss')
